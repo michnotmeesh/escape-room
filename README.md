@@ -53,7 +53,7 @@ To complete Part I, fulfill the following requirements:
 
 Make sure you have the assets from the repository as well.
 
-### Part II HTML
+### Part II Main HTML
 
 To complete Part II, fulfill the following requirements:
 
@@ -74,3 +74,20 @@ To complete Part II, fulfill the following requirements:
   * In the ```href``` attribute of the 1st link element, specify the path to the dungeon.html file.
   * In the ```href``` attribute of the 2nd link element, specify the path to the outer-space.html file.
   * In the ```href``` attribute of the 3rd link element, specify the path to the the-future.html file.
+
+### Part III Main CSS
+
+1. Target the ```id``` of "container".
+  * Set the ```width``` to ```calc(100vw)```. This will get the full width of the page.
+  * Set the ```height``` to ```calc(100vh)```. This will get the full height of the page.
+  * Set the background-image to the brick wall image. *Hint: https://www.w3schools.com/cssref/pr_background-image.asp Remember, we want the brick wall image. How do we specify the path of that?*
+2. Target the ```class``` of "door".
+  * Set the ```width``` to ```200px```.
+  * Set the ```height``` to ```400px```.
+3. Target the ```id``` of "door1".
+  * Set the ```position``` to ```fixed```. This allows us to specify exactly where we want the image to stay on the page.
+  * Place the door at the very bottom of the page and some pixels away from the left side of the page. Make sure the doors do not overlap. Use the properties ```bottom```, ```left```, ```top```, and/or ```right``` and see which works best. Test out different values! *Hint: https://www.w3schools.com/cssref/pr_class_position.asp*
+
+  **Do this for all 3 doors!**
+
+### Part IV
