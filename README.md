@@ -53,6 +53,8 @@ To complete Part I, fulfill the following requirements:
 
 Make sure you have the assets from the repository as well.
 
+---
+
 ### Part II Main HTML
 
 To complete Part II, fulfill the following requirements:
@@ -75,6 +77,8 @@ To complete Part II, fulfill the following requirements:
   * In the ```href``` attribute of the 2nd link element, specify the path to the outer-space.html file.
   * In the ```href``` attribute of the 3rd link element, specify the path to the the-future.html file.
 
+---
+
 ### Part III Main CSS
 
 1. Target the ```id``` of "container".
@@ -90,4 +94,104 @@ To complete Part II, fulfill the following requirements:
 
   **Do this for all 3 doors!**
 
-### Part IV
+Woohoo! Look at you go!
+---
+
+### Part IV Multiple CSS Files
+
+To complete Part IV, fulfill the following requirements:
+
+1. Go into your **CSS Folder**.
+2. Create 3 css files as follows:
+  * dungeon.css
+  * outer-space.css
+  * the-future.css
+
+---
+
+### Part V The Dungeon
+
+To complete Part V, fulfill the following requirements:
+
+1. Go into your dungeon.html file.
+2. Link the corresponding dungeon.css file. *Hint: How do you go from dungeon.html to dungeon.css?*
+3. In this HTML file, create a ```div``` with an ```id``` of "container".
+  * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "BEWARE OF THE DRAGON".
+  * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from dungeon.html to index.html?*
+
+---
+
+### Part VI Dungeon CSS
+
+To complete Part VI, fulfill the following requirements:
+
+1. Go into your dungeon.css file.
+2. Target the ```id``` of "container".
+  * Set the ```width``` to ```calc(100vw)```. This will specify the full width of the page.
+  * Set the ```height``` to ```calc(100vh)```. This will specify the full height of the page.
+  * Set the background-image to the dragon.gif. *Remember how you set the background image in the earlier part?*
+3. Target the ```id``` of "text".
+  * Set the background color to white! How do you do that? *https://www.w3schools.com/cssref/pr_background-color.asp*
+4. Target the ```id``` of "home".
+  * Set the background color to white!
+
+---
+
+### Part VII OooOooO Outer Space
+
+To complete Part VII, fulfill the following requirements:
+
+1. Go into your outer-space.html file.
+2. Link the corresponding outer-space.css file. *Hint: How do you go from outer-space.html to outer-space.css?*
+3. In this HTML file, create a ```div``` with an ```id``` of "container".
+  * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "THE ALIENS ARE COMING".
+  * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from outer-space.html to index.html?*
+
+---
+
+### Part VIII Outer Zzzpace CSS
+
+To complete Part VIII, fulfill the following requirements:
+
+1. Go into your outer-space.css file.
+2. Target the ```id``` of "container".
+  * Set the ```width``` to ```calc(100vw)```. This will specify the full width of the page.
+  * Set the ```height``` to ```calc(100vh)```. This will specify the full height of the page.
+  * Set the background-image to the alien.gif. *Remember how you set the background image in the earlier part?*
+3. Target the ```id``` of "text".
+  * Set the background color to white! How do you do that? *https://www.w3schools.com/cssref/pr_background-color.asp*
+4. Target the ```id``` of "home".
+  * Set the background color to white!
+
+### Part IX The Future
+
+To complete Part IX, fulfill the following requirements:
+
+1. Go into your the-future.html file.
+2. Link the corresponding the-future.css file. *Hint: How do you go from the-future.html to the-future.css?*
+3. In this HTML file, create a ```div``` with an ```id``` of "container".
+  * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "THIS IS THE FUTURE!!".
+  * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from the-future.html to index.html?*
+
+---
+
+### Part X The Future CSS
+
+To complete Part X, fulfill the following requirements:
+
+1. Go into your the-future.css file.
+2. Target the ```id``` of "container".
+  * Set the ```width``` to ```calc(100vw)```. This will specify the full width of the page.
+  * Set the ```height``` to ```calc(100vh)```. This will specify the full height of the page.
+  * Set the background-image to future.gif. *Remember how you set the background image in the earlier part?*
+3. Target the ```id``` of "text".
+  * Set the background color to white! How do you do that? *https://www.w3schools.com/cssref/pr_background-color.asp*
+4. Target the ```id``` of "home".
+  * Set the background color to white!
+
+Awesome Job! Check if it works and takes you to these places when you click on the doors!
+
+### Stretch Goals
+
+1. Create another door in the index.html file that will take you to a place of your choosing!
+2. In this new place, create ANOTHER door that will take you to ANOTHER new place!
