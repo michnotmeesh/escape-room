@@ -53,8 +53,6 @@ To complete Part I, fulfill the following requirements:
 
 Make sure you have the assets from the repository as well.
 
----
-
 ### Part II Main HTML
 
 To complete Part II, fulfill the following requirements:
@@ -77,8 +75,6 @@ To complete Part II, fulfill the following requirements:
   * In the ```href``` attribute of the 2nd link element, specify the path to the outer-space.html file.
   * In the ```href``` attribute of the 3rd link element, specify the path to the the-future.html file.
 
----
-
 ### Part III Main CSS
 
 1. Target the ```id``` of "container".
@@ -94,9 +90,6 @@ To complete Part II, fulfill the following requirements:
 
   **Do this for all 3 doors!**
 
-Woohoo! Look at you go!
----
-
 ### Part IV Multiple CSS Files
 
 To complete Part IV, fulfill the following requirements:
@@ -107,9 +100,7 @@ To complete Part IV, fulfill the following requirements:
   * outer-space.css
   * the-future.css
 
----
-
-### Part V The Dungeon
+### Part V The Dungeon HTML
 
 To complete Part V, fulfill the following requirements:
 
@@ -118,8 +109,6 @@ To complete Part V, fulfill the following requirements:
 3. In this HTML file, create a ```div``` with an ```id``` of "container".
   * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "BEWARE OF THE DRAGON".
   * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from dungeon.html to index.html?*
-
----
 
 ### Part VI Dungeon CSS
 
@@ -135,9 +124,7 @@ To complete Part VI, fulfill the following requirements:
 4. Target the ```id``` of "home".
   * Set the background color to white!
 
----
-
-### Part VII OooOooO Outer Space
+### Part VII Outer Space HTML
 
 To complete Part VII, fulfill the following requirements:
 
@@ -147,9 +134,7 @@ To complete Part VII, fulfill the following requirements:
   * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "THE ALIENS ARE COMING".
   * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from outer-space.html to index.html?*
 
----
-
-### Part VIII Outer Zzzpace CSS
+### Part VIII Outer Space CSS
 
 To complete Part VIII, fulfill the following requirements:
 
@@ -163,9 +148,7 @@ To complete Part VIII, fulfill the following requirements:
 4. Target the ```id``` of "home".
   * Set the background color to white!
 
----
-
-### Part IX The Future
+### Part IX The Future HTML
 
 To complete Part IX, fulfill the following requirements:
 
@@ -174,8 +157,6 @@ To complete Part IX, fulfill the following requirements:
 3. In this HTML file, create a ```div``` with an ```id``` of "container".
   * **Inside** of this div, create an ```h1``` with an ```id``` of "text". Inside of this ```h1```, type "THIS IS THE FUTURE!!".
   * Create a link element with an ```id``` of "home". In the ```href``` attribute, specify the location of the index.html file. *Hint: How do you go from the-future.html to index.html?*
-
----
 
 ### Part X The Future CSS
 
